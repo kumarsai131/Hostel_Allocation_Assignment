@@ -1,0 +1,25 @@
+button{
+    background-color: #90ee90;
+    color : black;
+
+}
+
+.bookroom{
+    background-color: blue;
+    color: white;
+    width: 190px;
+    border-radius: 20px;
+}
+
+.close{
+    border-radius: 50%;
+    height: 8%;
+    box-shadow: none;
+    color: white;
+    background-color: red;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 180px;
+}
